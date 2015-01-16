@@ -1,1 +1,2 @@
 SYS_ENV_VARS="This That and Another Thing"
+SYS_DEP_CMD="bundle install"
